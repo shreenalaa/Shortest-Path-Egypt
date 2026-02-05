@@ -1,0 +1,16 @@
+Cairo        Giza        10
+Cairo        Benha       45
+Giza         Fayoum      100
+Giza         BeniSuef    135
+Benha        Tanta       65
+Tanta        Alex        120
+Benha        Mansoura    110
+Mansoura     Damietta    70
+Alex         MarsaMatrouh 290
+Fayoum       Minya       160
+BeniSuef     Minya       140
+Minya        Assiut      150
+Assiut       Sohag       95
+Sohag        Qena        90
+Qena         Luxor       70
+Luxor        Aswan       215
